@@ -1,1 +1,1 @@
-This repository contains COEX hardware projects: [COEX Clover](https://github.com/CopterExpress/clover), COEX Pix, COEX PDB and COEX GPS.
+This repository contains COEX hardware projects: [COEX Clover](https://github.com/CopterExpress/clover), [COEX Pix](https://clover.coex.tech/en/coex_pix.html), [COEX PDB](https://clover.coex.tech/en/coex_pdb.html) and [COEX GPS](https://clover.coex.tech/en/coex_gps.html).
